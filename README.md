@@ -1,4 +1,4 @@
-<div align="center"> <img src="![github-header-image (2)](https://github.com/Roopa-Sundar/Roopa-Sundar/assets/115366791/a7d1a33f-1d59-4303-bbf5-ad40dea33ac0)
+<div align="center"> <img src="https://github.com/Roopa-Sundar/Roopa-Sundar/assets/115366791/a7d1a33f-1d59-4303-bbf5-ad40dea33ac0
 "> </div>
 <h1 align="center">Hi 👋, I'm Roopa Sundar</h1>
 <h3 align="center">A passionate developer from India</h3>
