@@ -1,6 +1,6 @@
 ![Header](![github-header-image (9)](https://github.com/Roopa-Sundar/Roopa-Sundar/assets/115366791/cfa7c4f6-b305-4438-8081-f7c4caa9f76e)
 )
-<h1 align="center">Hi 👋, I'm Roopa Sundar</h1>
+<h1 align="center">Hi 👋, </h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="480"  heihgt="200"  src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
