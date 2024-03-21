@@ -1,4 +1,5 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/repo-header-image.png"> </div>
+<div align="center"> <img src="![github-header-image (2)](https://github.com/Roopa-Sundar/Roopa-Sundar/assets/115366791/a7d1a33f-1d59-4303-bbf5-ad40dea33ac0)
+"> </div>
 <h1 align="center">Hi 👋, I'm Roopa Sundar</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="480"  heihgt="200"  src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
