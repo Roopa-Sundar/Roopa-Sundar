@@ -14,12 +14,13 @@
 
 - 👯 I’m looking to collaborate on **Flutter**
 
-- 🤝 I’m looking for help with **my peer devs**
+- 🤝 I’m looking for help with **my peers**
 
 - 📫 How to reach me **2003roopsundar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/roopa sundar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roopa sundar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
