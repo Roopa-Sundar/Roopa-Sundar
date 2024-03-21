@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Ai/ML**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Js Frameworks**
 
-- 👯 I’m looking to collaborate on **Flutter**
+- 👯 I’m looking to collaborate on **Flutter dev**
 
 - 🤝 I’m looking for help with **my peers**
 
