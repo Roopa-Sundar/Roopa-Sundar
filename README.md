@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Ai/ML**
 
-- 🌱 I’m currently learning **Js Frameworks**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **Flutter dev**
 
