@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **my peers**
 
-- 📫 How to reach me **2003roopsundar@gmail.com**
+- 📫 How to reach me **roopasundarpundla@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
