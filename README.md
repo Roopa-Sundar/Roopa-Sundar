@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning ****
 
 - 👯 I’m looking to collaborate on ****
 
 - 🤝 I’m looking for help with **my peers**
 
-- 📫 How to reach me **2003roopsundar@gmail.com**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
